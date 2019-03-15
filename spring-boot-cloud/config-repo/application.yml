@@ -20,7 +20,8 @@ ribbon:
 
 spring:
   rabbitmq:
-    host: rabbitmq
+    username: bingbing
+    password: bingbing
   sleuth:
     sampler:
       percentage: 1
